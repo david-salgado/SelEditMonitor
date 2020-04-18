@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587202367064.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "166621959",
+    "id" : "F08DC2F4",
+    "lastKnownWriteTime" : 1587202407,
+    "last_content_update" : 1587202407376,
+    "path" : "~/INE.Packages.v2/SelEditMonitor/R/invLTA.R",
+    "project_path" : "R/invLTA.R",
+    "properties" : {
+        "cursorPosition" : "17,10",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
